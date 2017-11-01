@@ -1,0 +1,58 @@
+h1 {
+  height: 100px;
+  text-align: center;
+  background-color: blue;
+}
+
+
+.subtitle {
+  width: 50%;
+  background-color: lightgrey;
+}
+
+.box-1 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: white;
+  background-color: teal;
+}
+
+.box-2 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  color: red;
+  background-color: purple;
+}
+
+.box-3 {
+  float: right;
+  width: 100px;
+  height: 100px;
+  color: black;
+  background-color: lightblue;
+}
+
+.box-4 {
+  float: center;
+  width: 100px;
+  height: 100px;
+  color: white;
+  background-color: lightgreen;
+}
+
+.box-5 {
+  float: right;
+  width: 100px;
+  height: 100px;
+  color: black;
+  background-color: orange;
+}
+
+.box-6 {
+  float: right;
+  width: 100px;
+  height: 100px;
+  color: white;
+  background-color: black;
